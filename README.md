@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohit Khurana
+# Mohita Khurana
 
 ### Frontend Developer | React.js • JavaScript • C++ • Python • Data Structures & Algorithms • SCSS • CSS •HTML5
 
