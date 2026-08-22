@@ -2,7 +2,7 @@
 
 # Mohit Khurana
 
-### Frontend Developer | C++ • Python • Data Structures & Algorithms
+### Frontend Developer | React.js • JavaScript • C++ • Python • Data Structures & Algorithms • SCSS • CSS •HTML5
 
 [![Profile views](https://komarev.com/ghpvc/?username=mohitamaker&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mohitamaker)
 
@@ -15,7 +15,7 @@
 - Frontend developer focused on responsive, accessible, and well-crafted web interfaces.
 - Strong foundation in C, C++, Python, and Data Structures & Algorithms.
 - Interested in creating practical software and continuously improving problem-solving skills.
-- Contact: **[add your public email, LinkedIn, or portfolio link]**
+- Contact: **mohitakhurana12@gmail.com,(https://www.linkedin.com/in/mohita-khurana-04b585359/**
 
 ---
 
@@ -43,13 +43,6 @@
 - Problem Solving with C++ and Python
 
 ---
-
-## GitHub at a Glance
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitamaker&show_icons=true&hide_border=true&theme=transparent" alt="Mohit's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitamaker&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
 
 <img src="https://streak-stats.demolab.com?user=mohitamaker&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
